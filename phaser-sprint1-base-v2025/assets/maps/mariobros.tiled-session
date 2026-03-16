@@ -1,0 +1,68 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "mariobros2.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Todos los archivos (*)",
+    "fileStates": {
+        "C:/Users/armand/phaser-sprint1-base-1/assets/mapmario.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 492,
+                "y": 560
+            }
+        },
+        "C:/Users/armand/phaser-sprint1-base-1/assets/mapmario.tmx#map-tileset": {
+            "scaleInDock": 1
+        },
+        "mariobros.json": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3198.6666666666665,
+                "y": 158.66666666666663
+            }
+        },
+        "mariobros.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "mariobros2.json": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": -57.333333333333314,
+                "y": -39
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/armand/phaser-sprint1-base-1/assets/maps",
+    "last.imagePath": "C:/Users/armand/phaser-sprint1-base-1/assets/maps",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 400,
+    "openFiles": [
+        "mariobros2.json"
+    ],
+    "project": "mariobros.tiled-project",
+    "recentFiles": [
+        "mariobros2.json",
+        "mariobros.tsx",
+        "mariobros.json",
+        "C:/Users/armand/phaser-sprint1-base-1/assets/mapmario.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 1,
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

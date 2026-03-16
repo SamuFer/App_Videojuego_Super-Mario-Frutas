@@ -1,0 +1,47 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "mariobros.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "mariobros.tmx": {
+            "scale": 16,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 512.9375,
+                "y": 184.75
+            }
+        },
+        "mariobros.tmx#Dungeon": {
+            "scaleInDock": 1
+        },
+        "mariobros.tmx#mariobros": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/armand/phaser-sprint1-base-1/assets/maps",
+    "last.imagePath": "C:/Users/armand/phaser-sprint1-base-1/assets/maps",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 430,
+    "openFiles": [
+        "mariobros.tmx"
+    ],
+    "project": "prova2.tiled-project",
+    "recentFiles": [
+        "mariobros.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.margin": 1,
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

@@ -1,10 +1,3 @@
-# App_Videojuego_Super-Mario-Frutas
-Videojuego web similar a Super Mario Bros
-
-LINK VIDEO 1: https://www.youtube.com/watch?v=hDW7aq6lY74
-link video 2: 
-
-
 # PUNT 1. La base
 
 * SUPER_VEGETABLE/
@@ -67,60 +60,3 @@ arcade: {
 
 * Observa a la documentació què fa la primera línia: SetCollisionByExclusion
 * La segona línia estableix que player i platform_layer no es poden travessar (colisionen)
-
-
-
-
-# 🎮 Joc Platformer – Phaser 3
-
-Aquest projecte és un videojoc 2D de plataformes desenvolupat amb **Phaser 3**, que incorpora salts, recollida d’objectes, animacions, so, i connexió amb Firebase. El jugador controla un tomàquet animat que ha de superar obstacles i recollir monedes i estrelles abans d’arribar al final del nivell.
-
-## 📋 Funcionalitats implementades segons l’enunciat
-
-**1. Jugador i moviment**
-- Control del jugador amb tecles fletxa/WASD.
-- Salt amb SPACE o W.
-- Física arcade i gravetat personalitzada.
-
-**2. Col·lisions i salts realistes**
-- El jugador només pot saltar si està tocat terra.
-- Col·lisions amb terra i plataformes flotants.
-- Tractament especial per escales.
-
-**3. Escales**
-- El jugador pot pujar i baixar escales amb moviment suau.
-- Es desactiva la gravetat mentre està a sobre.
-
-**4. Recol·lecció d’objectes**
-- Animacions de monedes i estrelles.
-- So de recollida.
-- Recompensa de punts per cada objecte.
-
-**5. Final de nivell**
-- Bandera amb animació.
-- Final dinàmic amb puntuació extra segons l’altura.
-
-**6. So**
-- Música de fons en bucle.
-- Sons per saltar, morir i recollir objectes.
-
-**7. Puntuació i rànquing amb Firebase**
-- Desem el nom del jugador i puntuació a Firebase.
-- Mostrem un **ranking ordenat** per puntuació.
-- Formulari HTML integrat per enviar dades.
-
-## 🛠️ Tecnologies utilitzades
-
-- [Phaser 3](https://phaser.io/)
-- Firebase (Firestore)
-- Tiled per disseny de mapes
-
-## 📦 Com executar
-
-1. Clona el repositori.
-2. Obre amb `Live Server` o similar.
-3. Juga i competeix per la millor puntuació!
-
----
-
-**Projecte desenvolupat per [el teu nom o equip], curs 2024-2025.**

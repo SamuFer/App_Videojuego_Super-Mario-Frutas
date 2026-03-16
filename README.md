@@ -7,7 +7,7 @@ link video 2:
 
 # PUNT 1. La base
 
-* SUPER_VEGETABLE/
+* PLATFORMER_2/
 * │── assets/            # 📁 Conté tots els recursos multimèdia
 * │   ├── tilesets/      # 📁 Per als tiles del mapa
 * │   │   ├── 44pes_games_plat.png
@@ -123,4 +123,4 @@ Aquest projecte és un videojoc 2D de plataformes desenvolupat amb **Phaser 3**,
 
 ---
 
-**Projecte desenvolupat per [el teu nom o equip], curs 2024-2025.**
+**Projecte desenvolupat per [EQUIP 11], curs 2024-2025.**
